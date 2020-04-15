@@ -1,0 +1,31 @@
+body{
+	background-color: #cce6ff;
+	opacity: 0.9;
+}
+h1{
+	border: 1px solid darkorchid;
+	border-style: dashed;
+	border-radius: 15px;
+	text-align: center;
+	font-weight: bold;
+
+}
+h2{
+	text-align: center;
+	color: rebeccapurple;
+}
+table {
+  border: 2px solid darkorchid;
+  width: 700px;
+  margin: 0 auto;
+}
+thead {
+  background-color: plum;
+}
+td {
+  border-top: 1px solid darkorchid;
+}
+.data{
+  font-family: monospace;
+  background-color: beige;
+}
